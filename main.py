@@ -103,6 +103,5 @@ def main(window, WIDTH):
                     draw(window, grid, ROWS, WIDTH)
 
     pygame.quit()
-
-
+    
 main(window, WIDTH)
